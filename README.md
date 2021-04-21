@@ -1,2 +1,3 @@
-# LearningGit
-A repository for practicing using Git
+some new text
+new strings
+new line
